@@ -1,12 +1,4 @@
-<div align="center">
 
-<a href="https://github.com/thauanb-dev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Thauan+%F0%9F%91%8B;Dev+focado+em+produtividade+%26+automa%C3%A7%C3%A3o;Construo+ferramentas+que+eu+realmente+uso" alt="Typing SVG" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=2&width=800" />
-
-</div>
 
 ### 🚀 Sobre
 
@@ -36,18 +28,5 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 | [hacksidian](https://github.com/thauanb-dev/hacksidian) | — |
 | [fedora-dev-setup](https://github.com/thauanb-dev/fedora-dev-setup) | Setup de ambiente dev no Fedora |
 
-### 📊 Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thauanb-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thauanb-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=thauanb-dev&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=2&width=800" />
-</div>
 
