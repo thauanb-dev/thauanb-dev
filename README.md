@@ -44,7 +44,7 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thauanb-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=thauanb-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
