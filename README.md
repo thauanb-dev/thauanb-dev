@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o Thauan 👋
+<a href="https://github.com/thauanb-dev">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Thauan+%F0%9F%91%8B;Dev+focado+em+produtividade+%26+automa%C3%A7%C3%A3o;Construo+ferramentas+que+eu+realmente+uso" alt="Typing SVG" />
+</a>
 
-Desenvolvedor focado em **produtividade, automação e ferramentas para dev**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=2&width=800" />
 
 </div>
-
----
 
 ### 🚀 Sobre
 
@@ -14,13 +14,17 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 
 ### 🛠️ Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+</div>
 
 ### 📌 Projetos em destaque
 
@@ -35,7 +39,15 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 ### 📊 Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thauanb-dev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb-dev&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thauanb-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thauanb-dev&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=2&width=800" />
 </div>
 
