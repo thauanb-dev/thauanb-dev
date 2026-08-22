@@ -39,8 +39,8 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 ### 📊 Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thauanb-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thauanb-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thauanb-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
