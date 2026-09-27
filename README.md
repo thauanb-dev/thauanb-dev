@@ -18,15 +18,6 @@ Construo apps e ferramentas para resolver problemas do meu próprio fluxo de tra
 
 </div>
 
-### 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [NeroStudy](https://github.com/thauanb-dev/NeroStudy) | App pra organizar estudos, sessões de foco, tarefas e progresso pessoal |
-| [nextryx](https://github.com/thauanb-dev/nextryx) | Ferramenta modular de gestão e acompanhamento de processos administrativos |
-| [mods-hub](https://github.com/thauanb-dev/mods-hub) | Hub pessoal de gestão de mods entre jogos |
-| [hacksidian](https://github.com/thauanb-dev/hacksidian) | — |
-| [fedora-dev-setup](https://github.com/thauanb-dev/fedora-dev-setup) | Setup de ambiente dev no Fedora |
 
 
 
